@@ -38,3 +38,6 @@ class TestChangecity():
     self.driver.find_element(By.ID, "boutonr").click()
     self.driver.execute_script("window.scrollTo(0,375)")
   
+
+
+#test from senegal
